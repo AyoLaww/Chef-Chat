@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "16590896254",
+    "firebase_url": "https://chefchat-c192b-default-rtdb.firebaseio.com",
+    "project_id": "chefchat-c192b",
+    "storage_bucket": "chefchat-c192b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16590896254:android:14a43ad65cbe5d6f482c2f",
+        "android_client_info": {
+          "package_name": "com.example.chefchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16590896254-47vohs1eqgca2kdcuuj2naaef0skoa54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxxGkM0u--B_ERlOvAHeIqCe9OWkjxgKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16590896254-47vohs1eqgca2kdcuuj2naaef0skoa54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
